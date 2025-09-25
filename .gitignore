@@ -1,0 +1,5 @@
+secret.txt
+*.cer
+*.crt
+*.key
+*.pfx
